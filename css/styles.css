@@ -1,1 +1,9 @@
+.prof-box{
+  float: right;
+  height: 600px;
+  width: 900px;
+  background-color: #34495E;
+  color:#FCF3CF;
+  padding: 30px;
 
+}
