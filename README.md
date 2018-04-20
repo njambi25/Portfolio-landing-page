@@ -1,13 +1,15 @@
-# Portfolio-landing-page
+# Portfolio Landing Page
+[Live Link](https://github.com/njambi25/Portfolio-landing-page.git)
 #### The website is about a portfolio landing page with about me and portfolio pages.
-* Current versionis up to date
+* Current version is up to date
 #### By **Alice Njambi**
 ## Description
-My portfolio website is a website shoeing my bio, skills abd projects made for programming
+My portfolio website is a website showing my bio, skills abd projects made for programming
 ## Setup/Installation Requirements
 * Github
 * Browser
 ## Known Bugs
+No known bugs yet
 
 ## Technologies Used
 *html
