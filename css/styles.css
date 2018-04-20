@@ -1,5 +1,6 @@
 html{
   background-color: #260C0C;
+  font-family: Halvetica sans-serif;
 
 }
 .prof-box{
@@ -10,4 +11,23 @@ html{
   padding: 30px;
   margin: 0px auto ;
   margin-top: 120px;
+  text-align: center;
+  font-color:
+}
+.column{
+  float: left;
+  margin: 0 auto;
+}
+.pic{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+h1{
+  font-size: 40px;
+font-weight: 100px
+}
+p{
+  font-weight: 200px;
 }
