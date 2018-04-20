@@ -1,23 +1,26 @@
 body {
-  background-color: #7B7D7D;
+  background-color: #ECF0F1;
 
 }
 .prof img {
   border-radius: 50%;
+  width: 280px;
+  length:280px;
 
 }
 
 .column1 {
   float: left;
   width: 30%;
-  font: Ariel;
   font-size: 20px;
-  border: 20px;
+  border: 1.5px solid #F8C471;
+
 }
 .column2 {
   float: right;
   width: 30%;
   font-size: 20px;
+  border: 1.5px solid #F8C471;
 
 }
 
@@ -26,4 +29,19 @@ body {
   width: 30%;
   margin-left: 5%;
   font-size: 20px;
+  border: 1.5px solid #F8C471;
+
+}
+.paragraph {
+  text-align: left;
+  padding: 5px;
+}
+.paragraph1 {
+  text-align: left;
+  padding: 5px;
+}
+
+.paragraph2 {
+  text-align: left;
+  padding: 5px;
 }
