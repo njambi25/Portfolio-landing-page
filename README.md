@@ -1,5 +1,5 @@
 # Portfolio Landing Page
-[Live Link](https://github.com/njambi25/Portfolio-landing-page.git)
+[Live Link](https://njambi25.github.io/Portfolio-landing-page)
 #### The website is about a portfolio landing page with about me and portfolio pages.
 * Current version is up to date
 #### By **Alice Njambi**
