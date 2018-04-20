@@ -1,0 +1,29 @@
+body {
+  background-color: #7B7D7D;
+
+}
+.prof img {
+  border-radius: 50%;
+
+}
+
+.column1 {
+  float: left;
+  width: 30%;
+  font: Ariel;
+  font-size: 20px;
+  border: 20px;
+}
+.column2 {
+  float: right;
+  width: 30%;
+  font-size: 20px;
+
+}
+
+.column3 {
+  float: left;
+  width: 30%;
+  margin-left: 5%;
+  font-size: 20px;
+}
