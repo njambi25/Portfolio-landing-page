@@ -1,65 +1,63 @@
-
-.box{
-width: 800px;
-height: 750px;
-background: rgba(0, 0, 0, 1);
-padding: 50px;
-text-align: center;
-float: center;
-margin: auto;
-margin-top: 5%;
-color: #CA6F1E;
-font-family: Verdana, sans-serif;
-background-color: ##1B2631;
+.box {
+  width: 800px;
+  height: 750px;
+  background: rgba(0, 0, 0, 1);
+  padding: 50px;
+  text-align: center;
+  float: center;
+  margin: auto;
+  margin-top: 5%;
+  color: #CA6F1E;
+  font-family: Verdana, sans-serif;
+  background-color: ##1B2631;
 }
 
-.box h1{
+.box h1 {
   text-align: center;
   margin-top: 25%;
-  font-size: 35px;S
+  font-size: 35px;
+  S
 }
 
-.box h4{
-text-align: center;
-margin-top: : 0;
-font-size: 23px;
-font-family: Ariel;
-color: ##E59866;
+.box h4 {
+  text-align: center;
+  margin-top: : 0;
+  font-size: 23px;
+  font-family: Ariel;
+  color: ##E59866;
 }
 
-.column{
-float: right;
-margin-top:25px;
-
-font-family: Lucida Console Monaco, monospace;
-color: #D2B4DE;
-text-decoration-line: : none;
-font-size: 25px;
+.column {
+  float: right;
+  margin-top: 25px;
+  font-family: Lucida Console Monaco, monospace;
+  color: #D2B4DE;
+  text-decoration-line: : none;
+  font-size: 25px;
 }
+
 a {
-color: #3498DB;
-text-decoration: none;
-text-align: left;
+  color: #3498DB;
+  text-decoration: none;
+  text-align: left;
 }
 
-.contact{
-color: #CA6F1E;
-float left;
-
-}
-.contact h3{
-text-align: left;
-font: Harvetica;
+.contact {
+  color: #CA6F1E;
+  float left;
 }
 
-.contact p{
-text-align: left;
-
+.contact h3 {
+  text-align: left;
+  font: Harvetica;
 }
 
-.prof img{
-float: left;
-width: 300px;
-height:300px;
+.contact p {
+  text-align: left;
+}
 
+.prof img {
+  float: left;
+  width: 300px;
+  height: 300px;
 }
