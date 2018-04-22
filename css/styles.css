@@ -1,10 +1,8 @@
 .box {
   width: 800px;
   height: 750px;
-  background: rgba(0, 0, 0, 1);
+  background: #151313;
   padding: 50px;
-  text-align: center;
-  float: center;
   margin: auto;
   margin-top: 5%;
   color: #CA6F1E;
